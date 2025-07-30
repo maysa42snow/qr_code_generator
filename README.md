@@ -23,18 +23,19 @@ Hey! This is a cute, clean, and mobile-friendly QR Code Generator I built using 
 
 ## 📂 Files
 
+```
 qr-code-generator/
-├── index.html        
-├── style.css          
-├── script.js            
-├── LICENSE         
-├── README.md            
-└── assets/             
-    └── purple_heart.png 
-└── screenshots/        
-    └── preview_dark.png      
+├── index.html
+├── style.css
+├── script.js
+├── LICENSE
+├── README.md
+├── assets/
+│   └── purple_heart.png
+└── screenshots/
+    ├── preview_dark.png
     └── preview_light.png
-
+```
 
 ---
 
