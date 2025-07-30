@@ -1,4 +1,4 @@
-# ✨ QR Code Generator
+# QR Code Generator
 
 Hey! This is a cute, clean, and mobile-friendly QR Code Generator I built using pure HTML, CSS, and JavaScript. It lets you create QR codes from any link or text, choose the color and size, switch between light and dark mode, and even download your generated code as an image. Oh — and it looks great on your phone too!
 
@@ -27,6 +27,7 @@ qr-code-generator/
 ├── index.html           ← Main structure
 ├── style.css            ← All styles (light, dark, responsive)
 ├── script.js            ← Core logic for QR generation & features
+├── LICENSE              ← Project license
 ├── README.md            ← This file!
 └── screenshots/         ← Folder with screenshots of preview images
     └── preview_dark.png      
