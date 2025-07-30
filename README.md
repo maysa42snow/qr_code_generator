@@ -24,12 +24,14 @@ Hey! This is a cute, clean, and mobile-friendly QR Code Generator I built using 
 ## 📂 Files
 
 qr-code-generator/
-├── index.html           ← Main structure
-├── style.css            ← All styles (light, dark, responsive)
-├── script.js            ← Core logic for QR generation & features
-├── LICENSE              ← Project license
-├── README.md            ← This file!
-└── screenshots/         ← Folder with screenshots of preview images
+├── index.html        
+├── style.css          
+├── script.js            
+├── LICENSE         
+├── README.md            
+└── assets/             
+    └── purple_heart.png 
+└── screenshots/        
     └── preview_dark.png      
     └── preview_light.png
 
